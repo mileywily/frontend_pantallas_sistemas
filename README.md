@@ -25,4 +25,4 @@ A continuación, presento algunos de los módulos y soluciones funcionales que h
 * **Descripción:**  módulo de configuración que diseñé para permitir a los usuarios finales generar sus propios reportes de venta personalizados, seleccionando criterios como fechas, sucursales y formato de descarga, sin depender de IT.
 
 ### 5. Sistemas de Gestión de Nómina
-![Sistema de Gestión de Nómina]([Sistema%20Gestion%20Nomina.pptx](https://github.com/mileywily/frontend_pantallas_sistemas/blob/f2f12b221172c6ffeabc720f34c87001151109b9/Sistema%20Gestion%20Nomina.pptx))
+![Sistema de Gestión de Nómina](SistemaGestionNomina.pptx)
