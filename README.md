@@ -23,3 +23,6 @@ A continuación, presento algunos de los módulos y soluciones funcionales que h
 ### 4. Módulos de Reportes y Filtros 
 ![Formulario de Registro](reporteyfiltros.png)
 * **Descripción:**  módulo de configuración que diseñé para permitir a los usuarios finales generar sus propios reportes de venta personalizados, seleccionando criterios como fechas, sucursales y formato de descarga, sin depender de IT.
+
+### 5. Sistemas de Gestión de Nómina
+![Sistema de Gestión de Nómina](SistemaGestionNomina.pptx)
